@@ -37,7 +37,7 @@ const InfoContainer = styled.div`
   }
   .img {
     display: block;
-    background: url('assets/images/info/img_bg.png') no-repeat center;
+    background: url('assets/images/img_bg.png') no-repeat center;
     background-size: contain;
     margin: 60px auto 0;
     width: 80%;
